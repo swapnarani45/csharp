@@ -1,0 +1,7 @@
+C:\Training\csharp\ProgramDemo\ProgramsDemo\obj\Debug\ProgramsDemo.csprojAssemblyReference.cache
+C:\Training\csharp\ProgramDemo\ProgramsDemo\obj\Debug\ProgramsDemo.csproj.CoreCompileInputs.cache
+C:\Training\csharp\ProgramDemo\ProgramsDemo\bin\Debug\ProgramsDemo.exe.config
+C:\Training\csharp\ProgramDemo\ProgramsDemo\bin\Debug\ProgramsDemo.exe
+C:\Training\csharp\ProgramDemo\ProgramsDemo\bin\Debug\ProgramsDemo.pdb
+C:\Training\csharp\ProgramDemo\ProgramsDemo\obj\Debug\ProgramsDemo.exe
+C:\Training\csharp\ProgramDemo\ProgramsDemo\obj\Debug\ProgramsDemo.pdb

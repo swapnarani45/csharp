@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "GNjzvoyFY9/e4VD2JhJnzwghi2fFGksdVTPiRvj3KjNVYb/rinsdMTdJOYrj1YPzvMhRDJh2e7CYTYm7vamsZQ==",
+  "success": true,
+  "projectFilePath": "C:\\Training\\csharp\\SalaryLib\\SalaryLib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\swapnaraniv\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\swapnaraniv\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

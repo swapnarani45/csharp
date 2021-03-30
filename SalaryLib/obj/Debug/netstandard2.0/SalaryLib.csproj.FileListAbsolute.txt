@@ -1,0 +1,9 @@
+C:\Training\csharp\SalaryLib\bin\Debug\netstandard2.0\SalaryLib.deps.json
+C:\Training\csharp\SalaryLib\bin\Debug\netstandard2.0\SalaryLib.dll
+C:\Training\csharp\SalaryLib\bin\Debug\netstandard2.0\SalaryLib.pdb
+C:\Training\csharp\SalaryLib\obj\Debug\netstandard2.0\SalaryLib.AssemblyInfoInputs.cache
+C:\Training\csharp\SalaryLib\obj\Debug\netstandard2.0\SalaryLib.AssemblyInfo.cs
+C:\Training\csharp\SalaryLib\obj\Debug\netstandard2.0\SalaryLib.csproj.CoreCompileInputs.cache
+C:\Training\csharp\SalaryLib\obj\Debug\netstandard2.0\SalaryLib.dll
+C:\Training\csharp\SalaryLib\obj\Debug\netstandard2.0\SalaryLib.pdb
+C:\Training\csharp\SalaryLib\obj\Debug\netstandard2.0\SalaryLib.csprojAssemblyReference.cache

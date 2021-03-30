@@ -1,0 +1,7 @@
+C:\Training\csharp\HelloWorld\ProgramDemo\bin\Debug\ProgramDemo.exe.config
+C:\Training\csharp\HelloWorld\ProgramDemo\bin\Debug\ProgramDemo.exe
+C:\Training\csharp\HelloWorld\ProgramDemo\bin\Debug\ProgramDemo.pdb
+C:\Training\csharp\HelloWorld\ProgramDemo\obj\Debug\ProgramDemo.csprojAssemblyReference.cache
+C:\Training\csharp\HelloWorld\ProgramDemo\obj\Debug\ProgramDemo.csproj.CoreCompileInputs.cache
+C:\Training\csharp\HelloWorld\ProgramDemo\obj\Debug\ProgramDemo.exe
+C:\Training\csharp\HelloWorld\ProgramDemo\obj\Debug\ProgramDemo.pdb

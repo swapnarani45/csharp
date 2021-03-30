@@ -1,0 +1,7 @@
+C:\Training\csharp\ProgramDemo\OopsDemo\bin\Debug\OopsDemo.exe.config
+C:\Training\csharp\ProgramDemo\OopsDemo\bin\Debug\OopsDemo.exe
+C:\Training\csharp\ProgramDemo\OopsDemo\bin\Debug\OopsDemo.pdb
+C:\Training\csharp\ProgramDemo\OopsDemo\obj\Debug\OopsDemo.csprojAssemblyReference.cache
+C:\Training\csharp\ProgramDemo\OopsDemo\obj\Debug\OopsDemo.csproj.CoreCompileInputs.cache
+C:\Training\csharp\ProgramDemo\OopsDemo\obj\Debug\OopsDemo.exe
+C:\Training\csharp\ProgramDemo\OopsDemo\obj\Debug\OopsDemo.pdb

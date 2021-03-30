@@ -1,0 +1,8 @@
+C:\Training\csharp\ClassLibrary1\bin\Debug\netstandard2.0\MyClassLibrary.deps.json
+C:\Training\csharp\ClassLibrary1\bin\Debug\netstandard2.0\MyClassLibrary.dll
+C:\Training\csharp\ClassLibrary1\bin\Debug\netstandard2.0\MyClassLibrary.pdb
+C:\Training\csharp\ClassLibrary1\obj\Debug\netstandard2.0\MyClassLibrary.AssemblyInfoInputs.cache
+C:\Training\csharp\ClassLibrary1\obj\Debug\netstandard2.0\MyClassLibrary.AssemblyInfo.cs
+C:\Training\csharp\ClassLibrary1\obj\Debug\netstandard2.0\MyClassLibrary.csproj.CoreCompileInputs.cache
+C:\Training\csharp\ClassLibrary1\obj\Debug\netstandard2.0\MyClassLibrary.dll
+C:\Training\csharp\ClassLibrary1\obj\Debug\netstandard2.0\MyClassLibrary.pdb
